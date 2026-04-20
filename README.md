@@ -1,4 +1,4 @@
-# 🌐 My Web Project
+# 🌐 IT IS A DEMO PROJECT 
 
 This is a **simple HTML & CSS project** created for *learning Git and GitHub*.
 
