@@ -1,4 +1,4 @@
-# 🌐 IT IS A DEMO PROJECT 
+# 🌐 THIS IS NEW DEVEOP DEMPO
 
 This is a **simple HTML & CSS project** created for *learning Git and GitHub*.
 
